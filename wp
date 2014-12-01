@@ -1,0 +1,2 @@
+#!/bin/bash
+wp-cli --require=$HOME/bin/civicrm.php
