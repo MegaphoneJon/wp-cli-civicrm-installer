@@ -1,2 +1,1 @@
-#!/bin/bash
-wp-cli --require=$HOME/bin/civicrm.php
+wp-cli --require=/home/jon/wp-cli/civicrm.php "$@"
