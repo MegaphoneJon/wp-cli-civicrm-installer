@@ -1,1 +1,0 @@
-wp-cli --require=/home/jon/wp-cli/civicrm.php "$@"
